@@ -1,0 +1,95 @@
+body {
+  background-color: #E5E5E5;
+  color: #3C4858;
+}
+.image-container {
+    min-height: 100vh;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+.logo-container {
+    width: 100%;
+    left: 50px;
+    text-align: center;
+    top: 20px;
+    z-index: 3;
+    padding:40px 0;
+}
+.logo-container .logo {
+  overflow: hidden;
+  margin: 0 auto;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.logo-container .logo img {
+  width: 100%;
+}
+.logo-container .brand {
+  vertical-align: middle;
+  color: #000;
+  font-size: 16px;
+  line-height:16px;
+  width:100%;
+  text-align:center;
+  padding-top: 10px;
+
+}
+.wizard-container {
+  padding-top:0px;
+  z-index: 3;
+}
+.wizard-card {
+  min-height: 410px;
+  box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+}
+.card {
+  background-color: #FFFFFF;
+  padding: 10px 0;
+  width: 100%;
+  border-radius: 6px;
+  color: rgba(0,0,0, 0.87);
+  background: #fff;
+}
+.wizard-card .wizard-header {
+  text-align: center;
+  padding: 25px 0 35px;
+}
+s}
+.wizard-card .wizard-title {
+  margin: 0;
+}
+.title, .title a, .card-title, .card-title a, .wizard-title, .wizard-title a {
+  color: #3C4858;
+  text-decoration: none;
+}
+.title, .card-title, .wizard-title {
+  font-weight: 700;
+}
+.footer {
+  position: relative;
+  bottom: 20px;
+  right: 0px;
+  width: 100%;
+  color: #000;
+  z-index: 4;
+  text-align: right;
+  margin-top: 60px;
+  text-shadow: 0 0px 1px black;
+}
+label.error {
+  color: red;
+  font-weight: normal;
+}
+.card:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+.btn-danger
+{
+  color: white!important;
+  background-color: #064D81!important;
+  border: none;
+}

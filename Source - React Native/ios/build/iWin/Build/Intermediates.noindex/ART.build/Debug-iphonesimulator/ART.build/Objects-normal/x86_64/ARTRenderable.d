@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/node_modules/react-native/Libraries/ART/ARTRenderable.m \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/node_modules/react-native/Libraries/ART/ARTRenderable.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/node_modules/react-native/Libraries/ART/Brushes/ARTBrush.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/node_modules/react-native/Libraries/ART/ARTCGFloatArray.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/node_modules/react-native/Libraries/ART/ARTNode.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/build/iWin/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/build/iWin/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/build/iWin/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/build/iWin/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

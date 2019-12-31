@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3DA9EEAB-7354-42D6-96BE-630A1CB8D609</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3DA9EEAB-7354-42D6-96BE-630A1CB8D609.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>iWin project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>iWin</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace iWin with scheme iWin and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>597305775.86182797</real>
+			<key>timeStoppedRecording</key>
+			<real>597305789.27540803</real>
+			<key>title</key>
+			<string>Building workspace iWin with scheme iWin and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3DA9EEAB-7354-42D6-96BE-630A1CB8D609</string>
+		</dict>
+		<key>CB7EBCF0-26C3-431A-9FAD-E14E64795977</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CB7EBCF0-26C3-431A-9FAD-E14E64795977.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>iWin project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>iWin</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace iWin with scheme iWin and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>591530018.54693997</real>
+			<key>timeStoppedRecording</key>
+			<real>591530032.86166406</real>
+			<key>title</key>
+			<string>Building workspace iWin with scheme iWin and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CB7EBCF0-26C3-431A-9FAD-E14E64795977</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

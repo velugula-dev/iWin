@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging.m \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessaging.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging_Private.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingAnalytics.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/FirebaseAnalyticsInterop/FIRAnalyticsInterop.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingContextManagerService.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessagingExtensionHelper.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMMessageCode.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSub.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingReceiver.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRemoteNotificationsProxy.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingSyncMessageManager.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingVersionUtilities.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/FirebaseCore/FIRLibrary.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/FirebaseCore/FIRDependency.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/FirebaseInstanceID/FirebaseInstanceID.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/FirebaseInstanceID/FIRInstanceID.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/Headers/Private/GoogleUtilities/GULUserDefaults.h \
+  /Users/henit/Documents/Repositories/iWin\ -\ Evince/iWin/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.h

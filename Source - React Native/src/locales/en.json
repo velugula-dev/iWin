@@ -1,0 +1,133 @@
+{
+  "Home": {
+    "title": "Home",
+    "hotel": "Hotel",
+    "guest": "Guest",
+    "adult": "Adult",
+    "child": "Children",
+    "check_in": "Check-in",
+    "check_out": "Check-out"
+  },
+  "Login": {
+    "email": "Email Address",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "signIn": "Sign In",
+    "noAccount": "Don't have an account?",
+    "signUp": "  Sign Up",
+    "facebook": "Login with Facebook",
+    "google": "Login with Google"
+  },
+  "General": {
+    "cancel": "Cancel",
+    "update": "Update",
+    "done": "Done",
+    "skip": "Skip",
+    "selectProfilePic": "Select profile picture",
+    "choosePhotoTitle": "Select from library",
+    "capturePhotoTitle": "Capture photo",
+    "yes": "Yes",
+    "no": "No",
+    "dismiss": "Dismiss",
+    "previous": "Previous",
+    "next": "  Next  ",
+    "submit": " Submit ",
+    "ok": "Okay"
+  },
+  "SignUp": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "country": "Country",
+    "userType": "User Type",
+    "email": "Email Address",
+    "password": "Password ( Min. 6 characters )",
+    "confirmpassword": "Confirm Password",
+    "signUp": "Sign Up",
+    "haveAccount": "Already have an account?",
+    "signIn": "  Sign In",
+    "phone": "Phone Number",
+    "termsOfUse": "Terms Of Use",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "ForgotPassword": {
+    "sendMail": "Send Email"
+  },
+  "ChangePassword": {
+    "oldPassword": "Old Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password"
+  },
+  "ThankYou": {
+    "thankYou": "Thank You!",
+    "bookingConfirmed": "Your Booking has been Confirmed.",
+    "viewBooking": "View Booking"
+  },
+  "Settings": {
+    "currencyOptions": "Currency Options",
+    "languageOptions": "Language Options",
+    "english": "English",
+    "arabic": "Arabic"
+  },
+  "Filter": {
+    "apply": "Apply",
+    "priceRange": "Price Range",
+    "starGrade": "Star Grade",
+    "amenities": "Amenities"
+  },
+  "ScreenTitles": {
+    "profile": "Profile",
+    "forgotPassword": "Forgot Password",
+    "changePassword": "Change Password",
+    "thankYou": "Thank You",
+    "settings": "Settings",
+    "filter": "Filter",
+    "quiz": "OverUnderz",
+    "history": "History",
+    "results": "Results",
+    "feedback": "Feedback"
+  },
+  "Sidebar": {
+    "Home": "Home",
+    "Booking": "Booking",
+    "ChangePassword": "Change Password",
+    "ContactUs": "Contact Us",
+    "AboutUs": "About Us",
+    "RateApp": "Rate App",
+    "ShareApp": "Share App",
+    "Settings": "Settings"
+  },
+  "HotelDetail": {
+    "title": "Hotel Details",
+    "amenities": "Hotel Amenities",
+    "check_in": "Check-in",
+    "check_out": "Check-out",
+    "about_Hotel": "About Hotel",
+    "reviews": "Reviews"
+  },
+  "RoomDetail": {
+    "title": "Room Detail",
+    "amenities": "Room Amenities",
+    "photos": "Photos",
+    "priceDetail": "Price Detail",
+    "total": "Total Amount",
+    "description": "Description",
+    "policies": "Policies",
+    "check_in": "Check-in",
+    "check_out": "Check-out"
+  },
+  "Booking": {
+    "title": "Bookings",
+    "upcoming": "Upcoming",
+    "past": "Past"
+  },
+  "BookingDetail": {
+    "title": "Booking Detail",
+    "order": "Order Details",
+    "customer": "Customer Information",
+    "review": "Add review"
+  },
+  "UserTypes": {
+    "individual": "Individual",
+    "corporate": "Corporate"
+  }
+}
