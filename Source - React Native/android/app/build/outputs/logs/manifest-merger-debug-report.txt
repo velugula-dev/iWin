@@ -1,0 +1,768 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [hermes-debug.aar] /Users/henit/.gradle/caches/transforms-2/files-2.1/893587e894c0f80ad2039ace08699ffc/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-fbsdk] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:1-30:12
+MERGED from [:@react-native-community_netinfo] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-webview] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-google-signin] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_async-storage] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-languages] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-languages/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-i18n] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:RNAdMob] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-admob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.60.6] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d8fc201336ceae095da4a1de67912b7/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.android:facebook-login:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c5c821f6ead07dfd70a0346177e128c2/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e05f8c6dde1e73c3391e28949d0adcbf/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/77f0e91480e3b07be2d634f39ba66915/AndroidManifest.xml:21:1-37:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/henit/.gradle/caches/transforms-2/files-2.1/30829be927576e7f79ca549cfa96915f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/95143617df2b44c0f3db621d13a26807/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/9ee144e2eecdc1f7d62944d61f34a8aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/caa41b8101f1cda8e88f7b695285f569/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/7df22e9c4673d522d238894ae5a1c071/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/eb5e4003c35540d3b8dacab5be8aea95/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0e1a550914aea1b8c9c040e1e7fa5e15/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9cf6885cb7ec42c19b3a5adab3936291/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8f1d465813d1ee29e04b8213859279a6/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/5dd0339aa51bb6c901b38436aa271275/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-ads:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/7cc50a73a93e3f00b045cb31b61130bc/AndroidManifest.xml:17:1-25:12
+MERGED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:21:1-61:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/73f65a0fb315940aeaef462b3f4e6755/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c0ba37f3e0526fc2353a913f4cdb7d43/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3df29ed67400ef9ba62df918e1bb3170/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/84d33af94eb887b63ac8984267054401/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/1fde1ca1111eb40a57c7a75d1a1cb204/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/eefd5cede81ccbeb352c87ba6ae2589a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3eaad5303b11467627dfd4d693ac17b3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/6ec9216ea2302a63ee995aec2f85489e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/b01d9559f9fb7b6cb1019d36a3a6d7fb/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f2e291f29a57ee92ffc087a611910441/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e539d816ba74f78d7ffc38c9ed8d7ffb/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/2043d4ad7b6f2407dcf13185a82fef37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f0f2f664e9f3120756ec8b030562a1aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a6202cf42280bf7a601db42ac0f33e6b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/4cabe14be81ca5619bc4b26ec1a0f99a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/6ea4f624082b31d74b16ffb0afd06c1f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/ce4cad1b79e2b5890e738c521312424e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c3ab93008b92f047316445ff3eccbb2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a26cfbda45776addefd701b8a9e995ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/28967b9856f65f7792cd9908d60a42b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a9fffacfa04deb8a7192a443c2388a30/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8c0343278c4a4ff124b0818702c867cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/2f23c9b27a06b05e290b4bc47628102b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/41d2056a1aaa6e1750af0520fe45f723/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8ee9bad59d524ae78457438d3c635dfb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/59b4857f0edaa363b14c62a3f85b0814/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/eebd920c89791014cc62368c82000245/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a02ac5a78236e5f0546af9127feccb9a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/1f6db575e4edd406eb9b70740375ffc0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/fb04fd825f4a74f3d64c003ad4f918fc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a280c3e19b5a7a65be9165c958917901/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/abc215429041762083549b9a5a1088e3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/fa38950fa7c138d24fb08a2c9125807a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/ea4e6763b15ed2a5784ab5e69b84bfb2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/ac804abd622a60a1ace457e8ad380961/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3998506fb89cf193ff4921be0a4735c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/99d622bc5d3e4b2fa8eae6a739923cbe/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8270c8390cfa62677c362fb832c1ed17/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d870b4c9556066d1c99c2e3a388bb177/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/87f22b23ef1fcb8424c1c0137e72cc72/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f956e1dfa2b8db828b3299335eba78b4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8ca6442257e4d7e560149032c431cb13/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f3176d63fdfe1ef01c18fe4309911e0d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8f15b9ed914043023d9201195d425af3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f68fc9ccf36bc04133ff04b2d424ff33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/4a672a953d47f0b688ef84a4cba4bf84/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/186ff6166cd766f4d57a82e059cad33c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/fb40b2500d4f23d38d4c6f91a29f53d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9e10142c3f0921036348217a0d8bbec1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/95a2e60d7199582556ef61f61d88ace1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e2dd56772b2fe02f941e2bb0d0344f66/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/b01d9559f9fb7b6cb1019d36a3a6d7fb/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/b01d9559f9fb7b6cb1019d36a3a6d7fb/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:6:22-75
+application
+ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:8:5-32:19
+MERGED from [:react-native-fbsdk] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-webview] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [com.facebook.react:react-native:0.60.6] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d8fc201336ceae095da4a1de67912b7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.6] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d8fc201336ceae095da4a1de67912b7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-login:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c5c821f6ead07dfd70a0346177e128c2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c5c821f6ead07dfd70a0346177e128c2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e05f8c6dde1e73c3391e28949d0adcbf/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e05f8c6dde1e73c3391e28949d0adcbf/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/77f0e91480e3b07be2d634f39ba66915/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/77f0e91480e3b07be2d634f39ba66915/AndroidManifest.xml:28:5-35:19
+MERGED from [com.google.firebase:firebase-core:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/95143617df2b44c0f3db621d13a26807/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/95143617df2b44c0f3db621d13a26807/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/caa41b8101f1cda8e88f7b695285f569/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/caa41b8101f1cda8e88f7b695285f569/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0e1a550914aea1b8c9c040e1e7fa5e15/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0e1a550914aea1b8c9c040e1e7fa5e15/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9cf6885cb7ec42c19b3a5adab3936291/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9cf6885cb7ec42c19b3a5adab3936291/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8f1d465813d1ee29e04b8213859279a6/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8f1d465813d1ee29e04b8213859279a6/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/5dd0339aa51bb6c901b38436aa271275/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/5dd0339aa51bb6c901b38436aa271275/AndroidManifest.xml:22:5-27:19
+MERGED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:28:5-59:19
+MERGED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:28:5-59:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c0ba37f3e0526fc2353a913f4cdb7d43/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c0ba37f3e0526fc2353a913f4cdb7d43/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3df29ed67400ef9ba62df918e1bb3170/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3df29ed67400ef9ba62df918e1bb3170/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/84d33af94eb887b63ac8984267054401/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/84d33af94eb887b63ac8984267054401/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/1fde1ca1111eb40a57c7a75d1a1cb204/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/1fde1ca1111eb40a57c7a75d1a1cb204/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/eefd5cede81ccbeb352c87ba6ae2589a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/eefd5cede81ccbeb352c87ba6ae2589a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3eaad5303b11467627dfd4d693ac17b3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3eaad5303b11467627dfd4d693ac17b3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/6ec9216ea2302a63ee995aec2f85489e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/6ec9216ea2302a63ee995aec2f85489e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f2e291f29a57ee92ffc087a611910441/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f2e291f29a57ee92ffc087a611910441/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e539d816ba74f78d7ffc38c9ed8d7ffb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e539d816ba74f78d7ffc38c9ed8d7ffb/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/eebd920c89791014cc62368c82000245/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/eebd920c89791014cc62368c82000245/AndroidManifest.xml:22:5-89
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/ac804abd622a60a1ace457e8ad380961/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/ac804abd622a60a1ace457e8ad380961/AndroidManifest.xml:11:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/99d622bc5d3e4b2fa8eae6a739923cbe/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/99d622bc5d3e4b2fa8eae6a739923cbe/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8270c8390cfa62677c362fb832c1ed17/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8270c8390cfa62677c362fb832c1ed17/AndroidManifest.xml:7:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e2dd56772b2fe02f941e2bb0d0344f66/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e2dd56772b2fe02f941e2bb0d0344f66/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/eebd920c89791014cc62368c82000245/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-login:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c5c821f6ead07dfd70a0346177e128c2/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:10:7-39
+	android:icon
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:9:7-38
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:15:9-17:69
+	android:value
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:17:13-67
+	android:name
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:16:13-69
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:18:9-19:46
+	android:value
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:19:13-44
+	android:name
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:18:20-65
+activity#com.overunderz.MainActivity
+ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:21:7-30:18
+	android:label
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:23:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:25:9-51
+	android:configChanges
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:24:9-79
+	android:name
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:22:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:26:9-29:25
+action#android.intent.action.MAIN
+ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:27:13-65
+	android:name
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:27:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:28:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:31:7-84
+	android:name
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml:31:17-81
+uses-sdk
+INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+MERGED from [hermes-debug.aar] /Users/henit/.gradle/caches/transforms-2/files-2.1/893587e894c0f80ad2039ace08699ffc/AndroidManifest.xml:5:5-43
+MERGED from [hermes-debug.aar] /Users/henit/.gradle/caches/transforms-2/files-2.1/893587e894c0f80ad2039ace08699ffc/AndroidManifest.xml:5:5-43
+MERGED from [:react-native-fbsdk] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:@react-native-community_netinfo] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-languages] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-languages/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-languages] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-languages/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-i18n] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-i18n] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:RNAdMob] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-admob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:RNAdMob] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-admob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.60.6] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d8fc201336ceae095da4a1de67912b7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.6] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d8fc201336ceae095da4a1de67912b7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-login:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c5c821f6ead07dfd70a0346177e128c2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c5c821f6ead07dfd70a0346177e128c2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e05f8c6dde1e73c3391e28949d0adcbf/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e05f8c6dde1e73c3391e28949d0adcbf/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/77f0e91480e3b07be2d634f39ba66915/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/77f0e91480e3b07be2d634f39ba66915/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/henit/.gradle/caches/transforms-2/files-2.1/30829be927576e7f79ca549cfa96915f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/henit/.gradle/caches/transforms-2/files-2.1/30829be927576e7f79ca549cfa96915f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/95143617df2b44c0f3db621d13a26807/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/95143617df2b44c0f3db621d13a26807/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/9ee144e2eecdc1f7d62944d61f34a8aa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/9ee144e2eecdc1f7d62944d61f34a8aa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/caa41b8101f1cda8e88f7b695285f569/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/caa41b8101f1cda8e88f7b695285f569/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/7df22e9c4673d522d238894ae5a1c071/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/7df22e9c4673d522d238894ae5a1c071/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/eb5e4003c35540d3b8dacab5be8aea95/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/eb5e4003c35540d3b8dacab5be8aea95/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0e1a550914aea1b8c9c040e1e7fa5e15/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0e1a550914aea1b8c9c040e1e7fa5e15/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9cf6885cb7ec42c19b3a5adab3936291/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9cf6885cb7ec42c19b3a5adab3936291/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8f1d465813d1ee29e04b8213859279a6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8f1d465813d1ee29e04b8213859279a6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/5dd0339aa51bb6c901b38436aa271275/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/5dd0339aa51bb6c901b38436aa271275/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/7cc50a73a93e3f00b045cb31b61130bc/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/7cc50a73a93e3f00b045cb31b61130bc/AndroidManifest.xml:21:5-23:52
+MERGED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/73f65a0fb315940aeaef462b3f4e6755/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/73f65a0fb315940aeaef462b3f4e6755/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c0ba37f3e0526fc2353a913f4cdb7d43/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c0ba37f3e0526fc2353a913f4cdb7d43/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3df29ed67400ef9ba62df918e1bb3170/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3df29ed67400ef9ba62df918e1bb3170/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/84d33af94eb887b63ac8984267054401/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/84d33af94eb887b63ac8984267054401/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/1fde1ca1111eb40a57c7a75d1a1cb204/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/1fde1ca1111eb40a57c7a75d1a1cb204/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/eefd5cede81ccbeb352c87ba6ae2589a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/eefd5cede81ccbeb352c87ba6ae2589a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3eaad5303b11467627dfd4d693ac17b3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3eaad5303b11467627dfd4d693ac17b3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/6ec9216ea2302a63ee995aec2f85489e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/6ec9216ea2302a63ee995aec2f85489e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/b01d9559f9fb7b6cb1019d36a3a6d7fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/b01d9559f9fb7b6cb1019d36a3a6d7fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f2e291f29a57ee92ffc087a611910441/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f2e291f29a57ee92ffc087a611910441/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e539d816ba74f78d7ffc38c9ed8d7ffb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e539d816ba74f78d7ffc38c9ed8d7ffb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/2043d4ad7b6f2407dcf13185a82fef37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/2043d4ad7b6f2407dcf13185a82fef37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f0f2f664e9f3120756ec8b030562a1aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f0f2f664e9f3120756ec8b030562a1aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a6202cf42280bf7a601db42ac0f33e6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a6202cf42280bf7a601db42ac0f33e6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/4cabe14be81ca5619bc4b26ec1a0f99a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/4cabe14be81ca5619bc4b26ec1a0f99a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/6ea4f624082b31d74b16ffb0afd06c1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/6ea4f624082b31d74b16ffb0afd06c1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/ce4cad1b79e2b5890e738c521312424e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/ce4cad1b79e2b5890e738c521312424e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c3ab93008b92f047316445ff3eccbb2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c3ab93008b92f047316445ff3eccbb2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a26cfbda45776addefd701b8a9e995ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a26cfbda45776addefd701b8a9e995ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/28967b9856f65f7792cd9908d60a42b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/28967b9856f65f7792cd9908d60a42b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a9fffacfa04deb8a7192a443c2388a30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a9fffacfa04deb8a7192a443c2388a30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8c0343278c4a4ff124b0818702c867cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8c0343278c4a4ff124b0818702c867cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/2f23c9b27a06b05e290b4bc47628102b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/2f23c9b27a06b05e290b4bc47628102b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/41d2056a1aaa6e1750af0520fe45f723/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/41d2056a1aaa6e1750af0520fe45f723/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8ee9bad59d524ae78457438d3c635dfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8ee9bad59d524ae78457438d3c635dfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/59b4857f0edaa363b14c62a3f85b0814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/59b4857f0edaa363b14c62a3f85b0814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/eebd920c89791014cc62368c82000245/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/eebd920c89791014cc62368c82000245/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a02ac5a78236e5f0546af9127feccb9a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a02ac5a78236e5f0546af9127feccb9a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/1f6db575e4edd406eb9b70740375ffc0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/1f6db575e4edd406eb9b70740375ffc0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/fb04fd825f4a74f3d64c003ad4f918fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/fb04fd825f4a74f3d64c003ad4f918fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a280c3e19b5a7a65be9165c958917901/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/a280c3e19b5a7a65be9165c958917901/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/abc215429041762083549b9a5a1088e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/abc215429041762083549b9a5a1088e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/fa38950fa7c138d24fb08a2c9125807a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/fa38950fa7c138d24fb08a2c9125807a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/ea4e6763b15ed2a5784ab5e69b84bfb2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/ea4e6763b15ed2a5784ab5e69b84bfb2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/ac804abd622a60a1ace457e8ad380961/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/ac804abd622a60a1ace457e8ad380961/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3998506fb89cf193ff4921be0a4735c0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3998506fb89cf193ff4921be0a4735c0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/99d622bc5d3e4b2fa8eae6a739923cbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/99d622bc5d3e4b2fa8eae6a739923cbe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8270c8390cfa62677c362fb832c1ed17/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8270c8390cfa62677c362fb832c1ed17/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d870b4c9556066d1c99c2e3a388bb177/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d870b4c9556066d1c99c2e3a388bb177/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/87f22b23ef1fcb8424c1c0137e72cc72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/87f22b23ef1fcb8424c1c0137e72cc72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f956e1dfa2b8db828b3299335eba78b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f956e1dfa2b8db828b3299335eba78b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8ca6442257e4d7e560149032c431cb13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8ca6442257e4d7e560149032c431cb13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f3176d63fdfe1ef01c18fe4309911e0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f3176d63fdfe1ef01c18fe4309911e0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8f15b9ed914043023d9201195d425af3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/8f15b9ed914043023d9201195d425af3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f68fc9ccf36bc04133ff04b2d424ff33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/f68fc9ccf36bc04133ff04b2d424ff33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/4a672a953d47f0b688ef84a4cba4bf84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/4a672a953d47f0b688ef84a4cba4bf84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/186ff6166cd766f4d57a82e059cad33c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/186ff6166cd766f4d57a82e059cad33c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/fb40b2500d4f23d38d4c6f91a29f53d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/fb40b2500d4f23d38d4c6f91a29f53d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9e10142c3f0921036348217a0d8bbec1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9e10142c3f0921036348217a0d8bbec1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/95a2e60d7199582556ef61f61d88ace1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/95a2e60d7199582556ef61f61d88ace1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e2dd56772b2fe02f941e2bb0d0344f66/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e2dd56772b2fe02f941e2bb0d0344f66/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/7cc50a73a93e3f00b045cb31b61130bc/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/henit/Documents/Repositories/iWin - Evince/iWin/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:@react-native-community_netinfo] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/b01d9559f9fb7b6cb1019d36a3a6d7fb/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/b01d9559f9fb7b6cb1019d36a3a6d7fb/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:@react-native-community_netinfo] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:@react-native-community_netinfo] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [:@react-native-community_netinfo] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-73
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-56
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/b01d9559f9fb7b6cb1019d36a3a6d7fb/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/b01d9559f9fb7b6cb1019d36a3a6d7fb/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] /Users/henit/Documents/Repositories/iWin - Evince/iWin/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/77f0e91480e3b07be2d634f39ba66915/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/77f0e91480e3b07be2d634f39ba66915/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/77f0e91480e3b07be2d634f39ba66915/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/77f0e91480e3b07be2d634f39ba66915/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/77f0e91480e3b07be2d634f39ba66915/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/77f0e91480e3b07be2d634f39ba66915/AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/77f0e91480e3b07be2d634f39ba66915/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/77f0e91480e3b07be2d634f39ba66915/AndroidManifest.xml:34:19-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cbe113e59458401502297771a59b37d4/AndroidManifest.xml:34:13-50
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3cd80a1304c01d4a8e57b2732c4dab2a/AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/henit/.gradle/caches/transforms-2/files-2.1/280e97847c8914c890ba3dd0c391c0ec/AndroidManifest.xml:34:13-89
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0e1a550914aea1b8c9c040e1e7fa5e15/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0e1a550914aea1b8c9c040e1e7fa5e15/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0e1a550914aea1b8c9c040e1e7fa5e15/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0e1a550914aea1b8c9c040e1e7fa5e15/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0e1a550914aea1b8c9c040e1e7fa5e15/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0e1a550914aea1b8c9c040e1e7fa5e15/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0e1a550914aea1b8c9c040e1e7fa5e15/AndroidManifest.xml:32:25-75
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3e36f4c026a0f2059a37c44c40e19940/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/3d3b389724c890c6171666aacf1c0c39/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/5dd0339aa51bb6c901b38436aa271275/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/5dd0339aa51bb6c901b38436aa271275/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/5dd0339aa51bb6c901b38436aa271275/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/5dd0339aa51bb6c901b38436aa271275/AndroidManifest.xml:24:13-79
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:48:25-92
+receiver#com.facebook.CampaignTrackingReceiver
+ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:51:9-58:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:53:13-36
+	android:permission
+		ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:52:13-65
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:55:13-57:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:56:17-79
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.12.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/cfc2d71b11e8217a3ddd2f96cce63004/AndroidManifest.xml:56:25-76
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c0ba37f3e0526fc2353a913f4cdb7d43/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c0ba37f3e0526fc2353a913f4cdb7d43/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c0ba37f3e0526fc2353a913f4cdb7d43/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c0ba37f3e0526fc2353a913f4cdb7d43/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/c0ba37f3e0526fc2353a913f4cdb7d43/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/9eb236081ab3860f3f772e1f167917fa/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:35:13-100
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/d6038136191b97792d7635e36b18f0cf/AndroidManifest.xml:49:13-87
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/0d2c84a5b96e495199863dbb056dcdae/AndroidManifest.xml:36:13-76
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e539d816ba74f78d7ffc38c9ed8d7ffb/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e539d816ba74f78d7ffc38c9ed8d7ffb/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henit/.gradle/caches/transforms-2/files-2.1/e539d816ba74f78d7ffc38c9ed8d7ffb/AndroidManifest.xml:24:13-58

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "465821261348",
+    "firebase_url": "https://iwin-229510.firebaseio.com",
+    "project_id": "iwin-229510",
+    "storage_bucket": "iwin-229510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465821261348:android:3de071ae40fc48be",
+        "android_client_info": {
+          "package_name": "com.iwin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465821261348-nbrj6plul1ncledr7aocspcgata8494n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iwin",
+            "certificate_hash": "d9b46a3fe94801aac03312ad2868ef8fa984e95a"
+          }
+        },
+        {
+          "client_id": "465821261348-aloirb53lf4ftote9vbfi7fmcki772bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6f-G0r1kU-EOsO4hxzKaK0LbP5yXHgpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465821261348-aloirb53lf4ftote9vbfi7fmcki772bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465821261348-pvimcdmfarjdlbk62qob7knu3mbd75gg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iwin.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465821261348:android:2001d0daa5fbcd1c",
+        "android_client_info": {
+          "package_name": "com.overunderz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465821261348-dcf5642fq1f2nkq2p1ajs23ql7veofcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.overunderz",
+            "certificate_hash": "d9b46a3fe94801aac03312ad2868ef8fa984e95a"
+          }
+        },
+        {
+          "client_id": "465821261348-aloirb53lf4ftote9vbfi7fmcki772bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6f-G0r1kU-EOsO4hxzKaK0LbP5yXHgpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465821261348-aloirb53lf4ftote9vbfi7fmcki772bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465821261348-pvimcdmfarjdlbk62qob7knu3mbd75gg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iwin.application"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,117 @@
+{
+  "Home": {
+    "title": "مرحبا",
+    "hotel": "الفندق",
+    "guest": "زائر",
+    "adult": "بالغ",
+    "child": "الأطفال",
+    "check_in": "تحقق في",
+    "check_out": "الدفع"
+  },
+  "Login": {
+    "email": "عنوان بريد الكتروني",
+    "password": "كلمه السر",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "signIn": "تسجيل الدخول",
+    "noAccount": "ليس لديك حساب؟",
+    "signUp": "  اشترك"
+  },
+  "General": {
+    "cancel": "إلغاء",
+    "update": "تحديث",
+    "done": "فعله",
+    "skip": "تخطى",
+    "selectProfilePic": "حدد صورة الملف الشخصي",
+    "choosePhotoTitle": "اختر من المكتبة",
+    "capturePhotoTitle": "التقاط الصورة"
+  },
+  "Filter": {
+    "apply": "تطبيق",
+    "priceRange": "نطاق السعر",
+    "starGrade": "الصف النجمي",
+    "amenities": "وسائل الراحة"
+  },
+  "SignUp": {
+    "firstName": "الاسم الاول",
+    "lastName": "الكنية",
+    "country": "بلد",
+    "userType": "نوع المستخدم",
+    "email": "عنوان بريد الكتروني",
+    "password": "كلمه السر",
+    "signUp": "سجل",
+    "haveAccount": "هل لديك حساب؟",
+    "signIn": "  تسجيل الدخول",
+    "phone": "رقم الهاتف"
+  },
+  "ForgotPassword": {
+    "sendMail": "ارسل بريد الكتروني"
+  },
+  "ChangePassword": {
+    "oldPassword": "كلمة المرور القديمة",
+    "newPassword": "كلمة السر الجديدة",
+    "confirmPassword": "تأكيد كلمة المرور"
+  },
+  "ThankYou": {
+    "thankYou": "شكرا جزيلا!",
+    "bookingConfirmed": "تم تأكيد الحجز الخاص بك.",
+    "viewBooking": "عرض الحجز"
+  },
+  "Settings": {
+    "currencyOptions": "خيارات العملات",
+    "languageOptions": "خيارات اللغة",
+    "english": "الإنجليزية",
+    "arabic": "عربى"
+  },
+  "ScreenTitles": {
+    "profile": "الملف الشخصي",
+    "forgotPassword": "هل نسيت كلمة المرور",
+    "changePassword": "غير كلمة السر",
+    "thankYou": "شكرا جزيلا",
+    "settings": "الإعدادات"
+  },
+  "Sidebar": {
+    "Home": "الصفحة الرئيسية",
+    "Booking": "الحجز",
+    "ChangePassword": "غير كلمة السر",
+    "ContactUs": "اتصل بنا",
+    "AboutUs": "معلومات عنا",
+    "RateApp": "معدل التطبيق",
+    "ShareApp": "شارك التطبيق",
+    "Settings": "الإعدادات",
+    "filter": "منقي"
+  },
+  "HotelDetail": {
+    "title": "تفاصيل الفندق",
+    "amenities": "فندق الراحة",
+    "check_in": "تحقق في",
+    "check_out": "الدفع",
+    "about_Hotel": "عن الفندق",
+    "reviews": "التعليقات"
+  },
+  "RoomDetail": {
+    "title": "التعليقات",
+    "amenities": "وسائل الراحة في الغرفة",
+    "photos": "الصور",
+    "priceDetail": "تفاصيل السعر",
+    "total": "المبلغ الإجمالي",
+    "description": "وصف",
+    "policies": "سياسات",
+    "check_in": "تحقق في",
+    "check_out": "الدفع"
+  },
+  "Booking": {
+    "title": "حجوزات",
+    "upcoming": "القادمة",
+    "past": "الماضي"
+  },
+  "BookingDetail": {
+    "title": "تفاصيل الحجز",
+    "order": "تفاصيل الطلب",
+    "customer": "معلومات العميل",
+    "review": "معلومات العميل"
+  },
+  "UserTypes": {
+    "individual": "فرد",
+    "corporate": "الشركات"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "179211789786",
+    "firebase_url": "https://tour-manager-920cd.firebaseio.com",
+    "project_id": "tour-manager-920cd",
+    "storage_bucket": "tour-manager-920cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179211789786:android:3de071ae40fc48be",
+        "android_client_info": {
+          "package_name": "com.iwin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179211789786-pdco4epmc4e8lr5a3q9tloj1b8qokflv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQgeGCwAjwfRuPqLi7bYSGdAdA5xGhorI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179211789786:android:0f505be01d425322",
+        "android_client_info": {
+          "package_name": "com.tourmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179211789786-pdco4epmc4e8lr5a3q9tloj1b8qokflv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQgeGCwAjwfRuPqLi7bYSGdAdA5xGhorI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
