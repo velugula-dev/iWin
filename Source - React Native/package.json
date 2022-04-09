@@ -11,7 +11,7 @@
     "@react-native-community/netinfo": "^4.6.1",
     "deprecated-react-native-listview": "0.0.5",
     "jstz": "^2.1.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "native-base": "^2.8.1",
     "react": "^16.8.6",
     "react-native": "^0.60.5",
